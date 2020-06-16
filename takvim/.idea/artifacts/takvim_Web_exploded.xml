@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="takvim:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/takvim_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="takvim/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="takvim" />
+        </element>
+      </element>
+      <element id="gwt-compiler-output" facet="takvim/gwt/GWT" />
+    </root>
+  </artifact>
+</component>
